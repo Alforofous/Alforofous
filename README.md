@@ -17,7 +17,7 @@
 
 <a href="https://github.com/Alforofous" target="_blank">This random dude's</a> coding journey started in <a href="https://minecraft.net" target="_blank">Minecraft</a> through the use of command blocks, which got upgraded later on to scripting language called <a href="https://minecraft.fandom.com/wiki/Function_(Java_Edition)" target="_blank">mcfunction</a>.
 
-  - Mini-game by the name of <a href="https://github.com/Eluant/Winged.git" target="_blank">Winged</a>;
+  - Mini-game by the name of <a href="https://github.com/Eluant/Winged.git" target="_blank">Winged</a> in colaboration with <a href="https://eluantstudios.com" target="_blank">EluantStudios</a>;
 # 
 
 Our <a href="https://github.com/Alforofous" target="_blank">main character's</a> Github page will continue to expand, so please stay tuned in for an unforgettable adventure!
