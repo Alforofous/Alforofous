@@ -7,7 +7,7 @@
 <img src="cpp.svg" width="100" height="100"></img>
 
 ## Projects
-<img src="c.svg" width="130" height="130"></img>
+<img src="c.svg" width="100" height="100"></img>
 
 **__NOTICE! Following projects were made and tested only under MacOS and Linux (Mainly WSL2) enviroment:__**
 
