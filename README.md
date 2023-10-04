@@ -6,7 +6,7 @@
 ## Projects
 <img src="cpp.svg" width="100" height="100"></img>
 
-  - <a href="https://github.com/Alforofous/RAGE" target="_blank"> RAGE</a> - aka rendering and game engine is a fairly new project <a href="https://github.com/Alforofous" target="_blank">this guy</a> started to create. Name is self explanatory, see you in near future!
+  - <a href="https://github.com/Alforofous/RAGE" target="_blank"> RAGE</a> - AKA "Rendering And Game Engine", is a fairly new project for <a href="https://github.com/Alforofous" target="_blank">this guy</a>. Name is self explanatory, see you in near future!
 
 ## Projects
 <img src="c.svg" width="100" height="100"></img>
