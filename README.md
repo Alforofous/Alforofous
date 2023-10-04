@@ -13,9 +13,10 @@
 
 **__NOTICE! Following projects were made and tested only under MacOS and Linux (Mainly WSL2) enviroment:__**
 
-  - <a href="https://github.com/Alforofous/dm_bdf_render" target="_blank"> Libraries</a> that no one else but <a href="https://github.com/Alforofous" target="_blank">this guy</a> uses;
-  - <a href="https://github.com/Alforofous/game_of_life" target="_blank">Cool optimization challenges</a>, like for example this one for <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">John Conway's</a> "Game Of Life";
-  - Real time <a href="https://github.com/Alforofous/RTv1.git" target="_blank">Ray</a>, and biggest recent project, <a href="https://github.com/NikoGardziella/RayTracer" target="_blank">Path </a>tracing.
+  - <a href="https://github.com/Alforofous/dm_bdf_render" target="_blank"> BDF font rendering library</a> that no one else but this guy uses;
+  - <a href="https://github.com/Alforofous/game_of_life" target="_blank">Game of life</a> more about it here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life;
+  - Real time <a href="https://github.com/Alforofous/RTv1.git" target="_blank">Ray tracing</a>;
+  - Real time <a href="https://github.com/NikoGardziella/RayTracer" target="_blank">Path tracing</a>.
 
 # 
 <img src="mcfunction.png" width="300" height="70"></img>
