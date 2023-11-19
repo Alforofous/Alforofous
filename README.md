@@ -11,7 +11,7 @@ _<a href="https://github.com/Alforofous" target="_blank">This guy</a> studies pr
 #
 <img src="c.svg" width="100" height="100"></img>
 
-__NOTICE! Following projects were made and tested only under MacOS and Linux (Mainly WSL2) enviroment:__
+_NOTICE! Following projects were made and tested only under MacOS and Linux (Mainly WSL2) enviroment:_
 
   __- <a href="https://github.com/Alforofous/dm_bdf_render" target="_blank"> BDF font rendering library</a> that no one else but this guy uses;__
   
