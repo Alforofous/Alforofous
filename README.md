@@ -6,7 +6,7 @@ _<a href="https://github.com/Alforofous" target="_blank">This guy</a> studies pr
 ## Projects
 <img src="cpp.svg" width="100" height="100"></img>
 
-###  - <a href="https://github.com/Alforofous/RAGE" target="_blank"> RAGE</a> - AKA "Rendering And Game Engine", is a fairly new project for <a href="https://github.com/Alforofous" target="_blank">this guy</a>. Name is self explanatory, see you in near future!
+###  <img src="RAGE.png" width="50" height="50"></img> - <a href="https://github.com/Alforofous/RAGE" target="_blank"> RAGE </a> - AKA "Rendering And Game Engine", is a fairly new project for <a href="https://github.com/Alforofous" target="_blank">this guy</a>. Name is self explanatory, see you in near future!
 
 #
 <img src="c.svg" width="100" height="100"></img>
